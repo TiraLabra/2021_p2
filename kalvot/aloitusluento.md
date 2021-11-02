@@ -1,6 +1,6 @@
 % Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit (Tiralabra)
 % Hannu Kärnä
-% 19.7.2021
+% 3.11.2021
 
 # Ohjaajat
 
@@ -9,11 +9,11 @@
 - Yhteyttä sähköpostilla tai telegrammissa kurssikanavalla
 
 - Telegram-kanava https://t.me/tkttiralabra/
-- Kurssisivu https://tiralabra.github.io/2021_loppukesa/
+- Kurssisivu https://tiralabra.github.io/2021_p2/
 
 # Mistä kyse?
 
-- Kurssilla toteutetaan itse jokin "hankalaa" algoritmia/algoritmeja käyttävä ohjelma ja joissain tapauksissa myös ohjelman käyttämät tietorakenteet. Esitietoihin kuuluvalla Tira-kurssilla opitut asiat eivät täytä tätä määritelmää. Esim. täysin brute force sudoku-ratkaisija ei sovellu aiheeksi, se on joskus ollut tehtävänä jo Ohjelmoinnin jatkokurssilla.
+- Kurssilla toteutetaan itse jokin "vaativaa" algoritmia/algoritmeja käyttävä ohjelma ja joissain tapauksissa myös ohjelman käyttämät tietorakenteet. Esitietoihin kuuluvalla Tira-kurssilla opitut asiat eivät täytä tätä määritelmää. Esim. täysin brute force sudoku-ratkaisija ei sovellu aiheeksi, se on joskus ollut tehtävänä jo Ohjelmoinnin jatkokurssilla.
 
 # Esitietovaatimukset
 
@@ -39,7 +39,7 @@
     - Reitinhakualgoritmien vertailu
     - Pakkausalgoritmien vertailu
     - Laskennallinen luovuus: musiikkia, tekstiä
-    - Krypto
+    - Koneoppiminen: tekstin tunnistus, kivi-sakset-paperi
     - Ratkaisijat (miinaharava, nonogrammi, 15-peli, pasianssit...)
         - Ks. miinaharavatemplaatti gitistä!
     - Pelit (ristinolla, shakki, korttipelit, lautapelit)
@@ -48,7 +48,7 @@
 
 # Koodaustyyli
 
-- Kurssilla edellytetään että kirjoitettu koodi on laadukasta ja helppolukuista. Kannattaa käyttää tyylitarkastusta. Esim java checkstyle.
+- Kurssilla edellytetään, että kirjoitettu koodi on laadukasta ja helppolukuista. Kannattaa käyttää tyylitarkastusta. Esim java checkstyle.
 - Projektin nimen olisi syytä olla aihetta kuvaava.
 - Sovelletaan OT kurssilla opittuja projektirakenteita.
     - Ei kaikki koodi projektin juureen samaan tiedostoon.
@@ -59,7 +59,7 @@
 - **Deadlinet** kurssisivun aikataulun mukaan.
     - Deadlinestä annetaan 0-4 pistettä kunkin deadlinen tehtävien mukaisesti
     - Palautukset tehdään *pushaamalla* projektin kunkin hetkinen tilanne GitHubiin
-        - Ei sähköpostipalautuksia
+        - Ei sähköpostipalautuksia tms.
     - Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen ja koodikatselmusten perusteella
     - Ohjaaja antavaa palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa pyytää sähköpostilla tai telegrammissa
     - Lisäaikaa saa **hyvällä syyllä**, **etukäteen pyytämällä**
@@ -82,7 +82,7 @@
 # Kurssin kulku
 
 - Kurssin lopuksi pakollinen **demotilaisuus**
-    - Jokainen opiskelija esittelee muille projektiaan noin 5 minuutin ajan
+    - Jokainen opiskelija esittelee muille projektiaan noin 10 minuutin ajan
     - Opiskelijat paikalla koko demotilaisuuden ajan
     - Harjoitustyön ei tarvitse olla demossa vielä aivan valmis
 - Kurssilla **ei ole kurssikoetta**
@@ -104,7 +104,7 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Kaikki tarvittava löytyy kurssisivulta: https://tiralabra.github.io/2021_alkukesa/
-    - Kannattaa käydä koko sivusto läpi tarkkaan!
+- Kaikki tarvittava löytyy kurssisivulta: https://tiralabra.github.io/2021_p2/
+    - Kannattaa lukea koko sivusto läpi tarkkaan!
 
 # Kysymyksiä?
