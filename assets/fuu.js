@@ -101,7 +101,7 @@ function getCells(elems, heads, f) {
     for (var i = 0; i < elems.length; i++) {
         while (elems[i].week > rw + 1) {
             cells = [...Array(8)].map(_ => document.createElement("td"));
-            var ph = {"week": rw + 1, "date": new Date().setDate(elems[i].date.getDate() - (7 * (elems[1].week - rw - 1)))}
+            var ph = {"week": rw + 1, "date": new Date().setDate(elems[1].date.getDate() - (7 * (elems[1].week - rw - 1)))}
             cells[0].innerHTML = getRow(ph, f);
   //          rw = elems[i].week;
             rows.push(cells);
