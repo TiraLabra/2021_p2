@@ -70,7 +70,7 @@ function enEvent(event) {
     return enDays[date.getDay()] + " " + enDate(date) + ", " + event.common;
 }
 
-const fiDays = ["Sunnuntaina", "Maanantaina", "Tiistaina", "Keskiviikkona", "Torstaina", "Perjantaina", "Lauantaina"];
+const fiDays = ["sunnuntaina", "maanantaina", "tiistaina", "keskiviikkona", "torstaina", "perjantaina", "lauantaina"];
 
 function fiDate(d) {
     return d.getDate() + "." + (d.getMonth() + 1) + ".";
