@@ -33,7 +33,7 @@ Kolmen peräkkäisen viikon ajan muuttumaton repositorio tulkitan kurssin keskey
 * Palautus 2: **<script>document.write(fiString(timing["dl2"].date));</script>**
     * [Dokumentaatio](../dokumentaatio/): Kirjoitettu koodi on selkeää ja kommentoitua (esim. Javalla tehdyssä työssä Javadoc-kommentit).
     * Viikkoraportti numero 2: ks. [Palautukset](../palautukset/)
-    * Ohjelma: Aloitettu ydinalueen toteutus käyttäen tarvittaessa esim. Javan valmiita tietorakenteita (ArrayList, HashMap yms.). Nämä korvataan myöhemmin omilla tietorakenteilla, mutta useissa tapauksissa ohjelman toteutus on helpompi aloittaa jostain muusta kuin tietorakenteista.
+    * Ohjelma: Aloitettu ydinalueen toteutus.
     * Testaus: Koodin *kattava* yksikkötestaus. (esim. Javalla tehdyssä työssä JUnit)
 		* Varmista, että kun teet luokkia niin olet myös testannut ne mahdollisimman nopeasti/aikaisin (mieluiten testit samassa palautuksessa, kuin luokat on koodattu). Siten tiedät, että koodi, jonka juuri kirjoitit toimii kuten haluat. Tarvittaessa tutustu [yksikkötestaukseen tukimateriaalissa](https://github.com/TiraLabra/Testing-and-rmq).
     * Olisi erittäin suositeltavaa että jo tässä vaiheessa projektin testikattavuus olisi seurattavissa.
