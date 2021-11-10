@@ -46,9 +46,9 @@ Kolmen peräkkäisen viikon ajan muuttumaton repositorio tulkitan kurssin keskey
 * Palautus 3: **<script>document.write(fiString(timing["dl3"].date));</script>**
     * [Dokumentaatio](../dokumentaatio/): Kirjoitettu koodi selkeää ja kommentoitua. Aloitettu kirjoittamaan testausdokumenttia.
     * Viikkoraportti numero 3
-    * Ohjelma: Ohjelman ydinalue edennyt, aloitettu mahdollisesti jo omien tietorakenteiden toteutus.
+    * Ohjelma: Ohjelman ydinalue edennyt, aloitettu ehkä jo omien tietorakenteiden toteutus, mikäli työhön kuuluu sellaisia.
     * Testaus: Koodin *kattava* yksikkötestaus.
-    * Viimeistään tässä vaiheessa testikattavuuden olisi oltava käytettävissä, ja testausdokumentissa on ainakin testikattavuusraportti.
+    * Viimeistään tässä vaiheessa testikattavuuden olisi oltava käytettävissä, ja testausdokumentissa on ainakin testikattavuusraportti kuvana / taulukkona.
     * Viimeistään tässä vaiheessa checkstylen tai vastaavan koodin laadun seurannan tulisi olla käytössä.
 
 ## Viikko 4:
