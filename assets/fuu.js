@@ -160,7 +160,7 @@ function makeCalendarEn() {
 function makeCalendarFi() {
     var wk = Object.values(timing).map(v => convWeek(v.date));
     wk.sort((a, b) => a.date < b.date ? -1 : 1);
-    rows = getCells(wk, ["Viikko", "Ma", "Ti", "Ke", "To", "Pe", "La", "Su"], fiDate);
+    rows = getCells(wk, ["Viikko", "ma", "ti", "ke", "to", "pe", "la", "su"], fiDate);
 
     var minWk = wk[0].week;
     rows = fillCells(rows, minWk, "fi");
